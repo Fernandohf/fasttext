@@ -8,6 +8,8 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
+  http: ^1.1.0
+  universal_io: ^2.2.2
   # path: ^1.8.0
 
 dev_dependencies:
